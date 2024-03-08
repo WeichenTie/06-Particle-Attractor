@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ParticleAttractor/static/css/main.073c9b0a.css",
-    "main.js": "/ParticleAttractor/static/js/main.f79e273c.js",
-    "static/js/787.b537ee29.chunk.js": "/ParticleAttractor/static/js/787.b537ee29.chunk.js",
-    "index.html": "/ParticleAttractor/index.html",
-    "main.073c9b0a.css.map": "/ParticleAttractor/static/css/main.073c9b0a.css.map",
-    "main.f79e273c.js.map": "/ParticleAttractor/static/js/main.f79e273c.js.map",
-    "787.b537ee29.chunk.js.map": "/ParticleAttractor/static/js/787.b537ee29.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.c171f434.js",
+    "static/js/787.b537ee29.chunk.js": "/static/js/787.b537ee29.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.c171f434.js.map": "/static/js/main.c171f434.js.map",
+    "787.b537ee29.chunk.js.map": "/static/js/787.b537ee29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f79e273c.js"
+    "static/js/main.c171f434.js"
   ]
 }
