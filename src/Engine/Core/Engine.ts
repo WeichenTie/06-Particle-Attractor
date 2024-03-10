@@ -55,7 +55,7 @@ function generatePoints(count: number) {
   let points = [];
   for (let i = 0; i < count; i++) {
     points.push(Math.random() * width, Math.random() * height);
-    points.push(Math.random(), Math.random());
+    points.push(0, 0);
   }
   return points;
 }
