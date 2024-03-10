@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/06-Particle-Attractor/static/css/main.d52f220e.css",
+    "main.css": "/06-Particle-Attractor/static/css/main.53de91c4.css",
     "main.js": "/06-Particle-Attractor/static/js/main.6aaebac3.js",
     "static/js/787.b537ee29.chunk.js": "/06-Particle-Attractor/static/js/787.b537ee29.chunk.js",
     "index.html": "/06-Particle-Attractor/index.html",
-    "main.d52f220e.css.map": "/06-Particle-Attractor/static/css/main.d52f220e.css.map",
+    "main.53de91c4.css.map": "/06-Particle-Attractor/static/css/main.53de91c4.css.map",
     "main.6aaebac3.js.map": "/06-Particle-Attractor/static/js/main.6aaebac3.js.map",
     "787.b537ee29.chunk.js.map": "/06-Particle-Attractor/static/js/787.b537ee29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d52f220e.css",
+    "static/css/main.53de91c4.css",
     "static/js/main.6aaebac3.js"
   ]
 }
